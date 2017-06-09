@@ -4,7 +4,8 @@
   "license": "MIT",
   "author": "Myles Borins <myles.borins@gmail.com>",
   "scripts": {
-    "postinstall": "bower install"
+    "postinstall": "bower install",
+    "start": "gulp serve"
   },
   "dependencies": {
     "bespoke-theme-nebula": "^1.0.1"

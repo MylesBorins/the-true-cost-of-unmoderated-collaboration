@@ -48,5 +48,5 @@ Then, install dependencies and run the preview server:
 
 ```bash
 $ npm install
-$ gulp serve
+$ npm start
 ```
