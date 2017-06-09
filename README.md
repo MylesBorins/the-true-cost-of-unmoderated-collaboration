@@ -1,8 +1,6 @@
 # The True Cost of Unmoderated Collaboration
 > A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
 
-# The True Cost of Unmoderated Collaboration: a story from the trenches
-
 ## Abstract
 
 Is your project prepared to deal with toxic behavior? What is your plan of
